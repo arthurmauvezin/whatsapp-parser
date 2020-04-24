@@ -1,0 +1,37 @@
+
+- Affichage sur un site internet
+    - Récupération de la conversation de manière automatique
+    - Auto import de la nouvelle conversation et mise à jour des données
+    - Visualisation des données sous forme de graphe
+    - Montée et descente des scores
+- Progression des scores
+
+
+Request
+* Tchatcheur - Celui qui parle le plus - celui qui envoie le plus de messages
+* Le philosophe/dissertation/Raconte ta life - Taille ratio - nombre de charactère / nombre de message
+* Emoji man - Emoji ratio - nombre d'emoji total / nombre de message
+
+* le plus concis
+* mot préféré par personne
+
+* l'absent - le mec parle rarement
+* Le comeback - 
+* l'ambianceur - ce soir
+* l'inquisiteur - nombre de ?
+* le mec qui partage de la merde - liens
+* l'insulteur - fuzzy match sur un base d'insultes
+* les squatteur - ceux qui font une conversation à deux dans un temps donné sans personne d'autres
+* Jean michel négatif - celui qui dis le plus de : pas, non, nan, ...
+* le disparu - le mec qui a pas parlé depuis suuuuuuper longtemps
+* Le partageur de média
+* couche tard - le mec qui envoie des messages tard
+* Leve tot - le mec qui envoie des messages tot
+
+
+Stat/graph:
+* nombre de messages
+* nombre d'emoji par personnes
+* ratio emoji/message
+
+
